@@ -1,0 +1,2 @@
+cat | nc mercury.picoctf.net 7449 > nc.txt
+used ASCII to text convertor on the numbers in nc.txt
