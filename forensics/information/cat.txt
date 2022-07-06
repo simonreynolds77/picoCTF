@@ -1,0 +1,93 @@
+Image:
+  Filename: cat.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 2560x1598+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianness: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 4090880
+    Red:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 78.771 (0.308906)
+      standard deviation: 66.9061 (0.262377)
+      kurtosis: -0.960917
+      skewness: 0.455912
+      entropy: 0.9119
+    Green:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 73.0792 (0.286585)
+      standard deviation: 73.7457 (0.289199)
+      kurtosis: -0.661505
+      skewness: 0.725843
+      entropy: 0.876194
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 79.9291 (0.313447)
+      standard deviation: 73.2804 (0.287374)
+      kurtosis: -0.398955
+      skewness: 0.803142
+      entropy: 0.922943
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 77.2597 (0.302979)
+      standard deviation: 71.3107 (0.27965)
+      kurtosis: -0.629883
+      skewness: 0.67533
+      entropy: 0.903679
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 2560x1598+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 90
+  Orientation: Undefined
+  Profiles:
+    Profile-8bim: 32 bytes
+    Profile-iptc: 19 bytes
+      Copyright String[2,116]: PicoCTF
+      unknown[2,0]: 
+    Profile-xmp: 3034 bytes
+  Properties:
+    date:create: 2022-07-06T13:13:22+00:00
+    date:modify: 2021-03-15T18:24:46+00:00
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: 52c5450db6fa4b2a2ce58f3507230c1a74e0f1fc85884cf5e2307a3ccae66210
+  Artifacts:
+    filename: cat.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 878136B
+  Number pixels: 4090880
+  Pixels per second: 13.3002MB
+  User time: 0.300u
+  Elapsed time: 0:01.307
+  Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
