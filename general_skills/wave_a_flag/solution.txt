@@ -1,1 +1,0 @@
-strings warm | grep -oE picoCTF{.*?} > new_flag.txt

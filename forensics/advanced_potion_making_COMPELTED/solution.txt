@@ -1,0 +1,8 @@
+apm.jpg was opened using the stegosolve app from 
+
+wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar
+chmod +x stegsolve.jar
+mkdir bin
+mv stegsolve.jar bin/
+
+
